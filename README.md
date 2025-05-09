@@ -64,6 +64,8 @@ author:
   email: [Your email address]
   url: [URL of your website]
 
+*Joder
+
 baseurl: [The base url for this blog.]
 
 paginate: [Number of posts in one paginated section (default: 3)]
