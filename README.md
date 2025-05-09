@@ -107,6 +107,8 @@ Post layout: Edit `_layouts/post.html`
 
 Site wide CSS: Edit `_sass/base.scss`
 
+**CHISPAS JODER**
+
 Custom CSS: Make `_sass/custom.scss` and use it. Then add `@import "custom";` to `css/main.scss`
 
 **404 page**
